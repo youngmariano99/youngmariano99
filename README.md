@@ -1,49 +1,30 @@
 
+# Hola, soy MarianoYoung 👋
+
+Me estoy iniciando en el mundo de la programación y la tecnología. Actualmente estoy estudiando una **Tecnicatura en Programación** en la [UTN](https://www.utn.edu.ar). Estoy buscando nuevas oportunidades laborales en **desarrollo backend** y con muchas ganas de seguir aprendiendo.
+
+
+
 ![Mariano GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmariano99&show_icons=true&theme=dracula&show_owner)
 
-### Acerca de mí
 
-- Desarrollador Backend en proceso...
-- Soy un profesional motivado y con un fuerte deseo de aprender y desarrollarme continuamente en mi carrera. Me adapto fácilmente a diferentes contextos y desafíos, trabajando eficazmente tanto de forma autónoma como en equipo. Organizado y con visión a largo plazo, busco siempre anticiparme y prepararme para las necesidades futuras.
+## 🚀 Mis habilidades:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+## 🚀 Mis Herramientas:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-2548B4?style=flat&logo=dbeaver&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F5F5F5?style=flat&logo=draw-dot-io&logoColor=black)
 
-### Lenguajes
+## 📚 Proyectos:
+- [Sistema de gestión almacen familiar](https://github.com/youngmariano99/sistema_gestion.git): Un sistema de gestión de inventarios.
 
-- Python
-- C++
-- SQL
+## 📬 Contáctame:
+- Email: [youngmariano99@gmail.com](mailto:youngmariano99@gmail.com)
+- LinkedIn: [Mariano Young](https://www.linkedin.com/in/mariano-young-016a0b23b/)
 
-### Frameworks
-
-- Django
-
-### Herramientas y Tecnologías
-
-- Git
-- Github
-- Visual Studio Code
-
-### Proyectos Destacados
-
-- [sistema.gestión](https://github.com/youngmariano99/sistema_gestion): Sistema de gestión para un almacén. Para gestionar ventas, stock e informes contables.
-
-### Experiencia
-
-- Aún no tengo experiencia en empleos, pero con todas las ganas de comenzar a tenerla y seguir aprendiendo.
-
-### Educación
-
-- Tecnicatura en programación (UTN) -> En progreso 50%
-- Licenciatura en Admin de empresas (Universidad Siglo 21) -> En progreso 90%
-
-### Certificaciones
-
-- Certificación en Python, SQL y github -> https://codigofacilito.com/
-
-### Habilidades Adicionales:
-- Deseo de aprendizaje y desarrollo profesional.
-- Adaptabilidad.
-- Trabajo en equipo.
-- Organización.
-- Visión a futuro.
-- Altruista
