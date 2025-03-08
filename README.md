@@ -6,6 +6,7 @@ Me estoy iniciando en el mundo de la programación y la tecnología. Actualmente
 # Mi CV.jason
 [cv.json](https://github.com/youngmariano99/mi-cv-json.git)
 
+## Stats
 ![Mariano GitHub stats](https://github-readme-stats.vercel.app/api?username=youngmariano99&show_icons=true&theme=dracula&show_owner)
 
 
