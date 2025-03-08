@@ -3,7 +3,7 @@
 
 Me estoy iniciando en el mundo de la programación y la tecnología. Actualmente estoy estudiando una **Tecnicatura en Programación** en la [UTN](https://www.utn.edu.ar). Estoy buscando nuevas oportunidades laborales en **desarrollo backend** y con muchas ganas de seguir aprendiendo.
 
-## Mi CV.jason
+## Mi CV.json
 [cv.json](https://github.com/youngmariano99/mi-cv-json.git)
 
 ## Stats
