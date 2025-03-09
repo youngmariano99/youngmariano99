@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Mariano Young</h1>
-<h3 align="center">📚 Estudiante de Programación y Administración | 💻 Apasionado por la tecnología y los datos</h3>
+<h3 align="center">📚 Estudiante de Programación y Administración | 💻 Interesado por la tecnología y los datos</h3>
 
 ---
 
