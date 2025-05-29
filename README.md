@@ -9,8 +9,8 @@
 - Licenciatura en Administración 📈
 
 🧠 Aprendiendo sobre:
-- Desarrollo backend con Python & Flask
-- Bases de datos (MySQL y MariaDB)
+- Desarrollo backend con Python & Django
+- Bases de datos (MySQL)
 - Git, GitHub, y control de versiones
 - Automatización, lógica y análisis de datos
 
