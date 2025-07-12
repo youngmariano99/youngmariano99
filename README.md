@@ -17,6 +17,7 @@
 🌱 Proyectos destacados:
 - 💻 [Sistema de Gestión de Stock y Compras - Comercio Mayorista (C++)](https://github.com/youngmariano99/sistema_gestion_mayorista.git): Interfaz CLI.
 - 💻 [Gestión de Empleados y Productos (C#, WindowsForm, SqlServer)](https://github.com/youngmariano99/sistema_gestion_mayorista): Interfaz GUI y conexion con base de datos.
+- 💻 [Sistema de Gestión de Almacén (C#, Web Form, SQLServer)](https://github.com/youngmariano99/SistemaGestionWebForm.git): Interfaz GUI y conexion con base de datos.
 - 💻 [Sistema de Gestión de Almacén (Python, MySQL, Peewee)](https://github.com/youngmariano99/sistema_gestion_mayorista): Interfaz CLI y conexion con base de datos.
 
 
